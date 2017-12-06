@@ -1,5 +1,17 @@
 %HW6
 
+%GB comments
+1a 100
+1b 100
+1c 70 no discussion on results
+1d 90 should address how the fitting is affected by high and low noise. 
+1e 100
+2a 100
+2b 70 no discussion on results
+2c 70 no discussion on results
+Overall: 88
+
+
 % Problem 1. Curve fitting. 
 % Part 1. Take 10 x values on the interval 0 < x <= 10 and then create y
 % values from the x values by plugging the x values into a third order
